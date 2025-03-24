@@ -6,3 +6,5 @@ print("dydydy")
 #co
 
 print("추가해버렸습니다.")
+print("또또 추가추가")
+print("또왔어")
